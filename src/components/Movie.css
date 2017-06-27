@@ -1,0 +1,7 @@
+.movie-title {
+  padding-top: 30px;
+}
+
+.movie-container {
+  display: flex;
+}

@@ -1,5 +1,6 @@
 import React, { PropTypes } from 'react';
 import movies from '../movies.json';
+import './Movie.css';
 
 const Movie = ({ params: { movieId }}) => {
   const movie = movies.find(
