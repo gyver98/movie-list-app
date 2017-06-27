@@ -5,7 +5,6 @@ import FeaturedMovie from './FeaturedMovie';
 
 const Home = () => {
   const topFour = movies.slice(0,4);
-  debugger;
   return (
     <div>
       <h2 className="featured-movies_header">
