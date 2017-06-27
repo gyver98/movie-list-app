@@ -1,5 +1,6 @@
 import React from 'react';
 import movies from '../movies.json';
+import './Home.css';
 import FeaturedMovie from './FeaturedMovie';
 
 const Home = () => {

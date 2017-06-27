@@ -1,4 +1,5 @@
 import React, { PropTypes } from 'react';
+import './FeaturedMovie.css';
 
 const FeaturedMovie = ({ movie }) => (
   <div className="featured-movie">

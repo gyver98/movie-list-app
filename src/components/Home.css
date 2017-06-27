@@ -1,0 +1,16 @@
+.featured-movies {
+  display: flex;
+  justify-content: space-between;
+}
+
+.featured-movies_header {
+  margin-bottom: 15px;
+  margin-top: 60px;
+}
+
+hr {
+  margin-bottom: 15px;
+  background-color: #e0e0e0;
+  height: 1px;
+  border: 0;
+}
