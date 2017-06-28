@@ -1,6 +1,7 @@
 import React from 'react';
 import Link from 'react-router/Link';
 import movies from '../movies.json';
+import './Movies.css';
 
 const Movies = () => (
   <div>

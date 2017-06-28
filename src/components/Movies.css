@@ -1,0 +1,8 @@
+.movie-listings {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.movie-listings .movie-image {
+  padding-right: 6px;
+}
