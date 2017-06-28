@@ -33,6 +33,10 @@
   margin-top: 20px;
 }
 
+.review-author {
+  font-size: 12px;
+}
+
 .movie-container {
   display: flex;
 }
