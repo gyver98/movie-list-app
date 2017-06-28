@@ -19,6 +19,20 @@
   padding: 20px;
 }
 
+.movie-title h2, .movie-reviews h2 {
+  font-size: 32px;
+  margin: 0;
+}
+
+.movie-title hr {
+  margin-bottom: 30px;
+}
+
+.movie-reviews {
+  text-align: left;
+  margin-top: 20px;
+}
+
 .movie-container {
   display: flex;
 }
